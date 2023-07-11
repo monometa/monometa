@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Illia @monometa 
-- 👀 I'm interested in creating an infrastructure for interacting with data
-- 🌱 I’m currently mastering SQL, Python and Linux and learning Data warehousing and BigData concepts
-- 💞️ I’m looking for an opportunity to work in companies as a junior specialist, be part of internship or collaborate with startups   
+- 👀 I'm interested in creating an infrastructure for interacting with data  
 - 📫 Feel free to contact me anytime il.kaltovich@gmail.com
 
 <!---
