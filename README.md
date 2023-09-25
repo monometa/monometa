@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Illia @monometa 
 - 👀 I'm interested in creating an infrastructure for interacting with data  
 - 📫 Feel free to contact me anytime il.kaltovich@gmail.com
 
